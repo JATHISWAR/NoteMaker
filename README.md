@@ -1,3 +1,12 @@
+ <img src="https://github.com/JATHISWAR/Shopify-Web-FrontEnd-Index/blob/main/Screenshot%202021-01-07%20at%2012.06.24%20AM.png" width="500">
+
+
+
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
